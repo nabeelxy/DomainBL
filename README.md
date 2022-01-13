@@ -1,9 +1,9 @@
-# domainBL - domain BlockList
+# DomainBL - Domain BlockList
 
-What is domainBL?
+What is DomainBL?
 * A periodically updated list of malicious domains observed on a given day.
 
-How do we create domainBL?
+How do we create DomainBL?
 * We utilize state of the art ML/AI technologies to identify malicious domains.
 
 Why malicious domains instead of malicious URLs?
