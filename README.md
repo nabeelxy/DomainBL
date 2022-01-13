@@ -2,6 +2,9 @@
 
 What is DomainBL?
 * A periodically updated list of malicious domains observed on a given day.
+* We create two lists
+  * ApexBL - malicious apex domains
+  * PublicBL - malicious full qualified domains hosted on public hosting domains
 
 How do we create DomainBL?
 * We utilize state of the art ML/AI technologies to identify malicious domains.
