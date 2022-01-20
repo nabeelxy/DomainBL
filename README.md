@@ -1,7 +1,7 @@
 # DomainBL - Domain BlockList
 
 What is DomainBL?
-* A periodically updated list of malicious domains observed on a given day.
+* A periodically updated list of malicious domains first observed on a given day.
 * We create two lists
   * ApexBL - malicious apex domains
   * PublicBL - malicious full qualified domains hosted on public hosting domains
